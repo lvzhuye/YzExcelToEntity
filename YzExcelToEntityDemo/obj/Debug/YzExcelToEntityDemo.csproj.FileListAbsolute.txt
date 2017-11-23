@@ -1,0 +1,15 @@
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\YzExcelToEntityDemo.exe.config
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\YzExcelToEntityDemo.exe
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\YzExcelToEntityDemo.pdb
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\YzExcelToEntity.dll
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\NPOI.dll
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\NPOI.OOXML.dll
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\NPOI.OpenXml4Net.dll
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\YzExcelToEntity.pdb
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\bin\Debug\NPOI.xml
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\obj\Debug\YzExcelToEntityDemo.csprojResolveAssemblyReference.cache
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\obj\Debug\YzExcelToEntityDemo.csproj.CoreCompileInputs.cache
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\obj\Debug\YzExcelToEntityDemo.exe
+E:\YzGitProject\YzExcelToEntity\YzExcelToEntity\YzExcelToEntityDemo\obj\Debug\YzExcelToEntityDemo.pdb
